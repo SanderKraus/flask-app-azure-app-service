@@ -1,0 +1,4 @@
+{
+  "appService.defaultWebAppToDeploy": "/subscriptions/8f0b283b-6aca-4fa5-bd2d-a50207a239f2/AppServices/subscriptions/8f0b283b-6aca-4fa5-bd2d-a50207a239f2/resourceGroups/rsg-sander-enablement/providers/Microsoft.Web/sites/app-service-flask-app/configuration/SCM_DO_BUILD_DURING_DEPLOYMENT/subscriptions/8f0b283b-6aca-4fa5-bd2d-a50207a239f2/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/test-flask-app-vscode",
+  "appService.deploySubpath": "."
+}
